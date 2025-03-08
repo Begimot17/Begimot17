@@ -1,6 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on: Exploring new AI models and their applications.<br>👯 I’m looking to collaborate on: Creative tech projects or innovative problem-solving.<br>🤝 I’m looking for help with: Mastering advanced coding techniques or brainstorming fresh ideas.<br>🌱 I’m currently learning: Deep learning and neural networks.<br>💬 Ask me about: Anything related to AI or futuristic technologies!<br>⚡ Fun fact: I can complete a Rubik's Cube in less than 1 minute!
-
+🔭 I’m currently working on: Developing and optimizing backend systems.<br>
+👯 I’m looking to collaborate on: Backend development, architecture, and scalable solutions.<br>
+🤝 I’m looking for help with: Mastering advanced backend frameworks and performance tuning.<br>
+🌱 I’m currently learning: New backend technologies and best practices in system design.<br>
+💬 Ask me about: Anything related to backend development or tech architecture!<br>
+⚡ Fun fact: I can complete a Rubik's Cube in less than 1 minute!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikita-dyachkov-7a7752194) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikitadyachkovchik@gmail.com) 
